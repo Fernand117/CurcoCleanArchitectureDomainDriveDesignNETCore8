@@ -1,0 +1,1 @@
+# CurcoCleanArchitectureDomainDriveDesignNETCore8
